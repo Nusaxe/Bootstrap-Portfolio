@@ -1,1 +1,44 @@
+footer {
+    background-color: black;
+    text-align: center; 
+    color: white; 
+}
 
+.navbar-brand {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: bold; 
+    font-size: 26px; 
+}
+
+.carousel-caption { 
+    top: 48%;
+    transform: translateY(-50%);
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h5 { 
+    font-size: 40px;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+      bottom: 46%;
+}
+
+.lead { 
+    font-family: 'Maven Pro', sans-serif;
+}
+
+
+.Form {
+    max-width: 80%;
+    transform: translate(13%, 55%);
+    opacity: 0.75;
+    background-color: darkgray;
+}
+
+.Form-Parts {
+    transform: translate(-24%, 0%);
+}
